@@ -1,0 +1,25 @@
+﻿.center {
+    font-size: 300%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.menu {
+    position: absolute;
+    left: -70vw;
+    top: 0;
+    width: 70vw;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+.content {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
